@@ -1,0 +1,9 @@
+{
+	"train_data" : "../data/converted_fmt.txt",
+	"vocab" : "../BERT_vocabulary/bert-base-cased-vocab.txt",
+	"base_model" : "bert-base-cased/",
+	"relations" : 743,
+	"embedding_size" : 1536,
+	"iterations" : 601,
+	"save_interval" : 50
+}
