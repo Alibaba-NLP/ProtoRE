@@ -95,4 +95,4 @@ Please cite our paper is you use prototypical method in your work:
 
 ## Contact
 
-If you have any questions about this code, please write an e-mail to : xuanjie.wxb@alibaba-inc.com or  dingn18@mails.tsinghua.edu.cn
+If you have any questions about this code, please write an e-mail to : xuanjie.wxb@alibaba-inc.com or  [dingn18@mails.tsinghua.edu.cn](dingn18@mails.tsinghua.edu.cn)
