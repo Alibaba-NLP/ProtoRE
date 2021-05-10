@@ -14,13 +14,10 @@ This repo contains the code of the pretraining method proposed in  **Prototypica
 
 ### Key Implementation
 
-The relation representation produced by BERT is implemented in `models/bert_em.py`;
-
-Equation (3) in the paper is implemented in `control/train.py` line 103-108;
-
-Equation (4) (5) (6) in the paper is implemented in `control/train.py` line 78-96;
-
-Prototypes are implemented in `models/proto_sim.py`.
+- The relation representation produced by BERT is implemented in `models/bert_em.py`;
+- Equation (3) in the paper is implemented in `control/train.py` line 103-108;
+- Equation (4) (5) (6) in the paper is implemented in `control/train.py` line 78-96;
+- Prototypes are implemented in `models/proto_sim.py`.
 
 ### Data
 
