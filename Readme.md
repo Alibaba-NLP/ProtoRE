@@ -10,6 +10,7 @@ This repo contains the code of the pretraining method proposed in  `Prototypical
 * pytorch : 1.3.1
 * tranformers : 2.1.1
 
+
 ### Data
 Distantly labeled training data is required for runing. Training data should have **five columns**, i.e. instance id, relation id, start position of the first entity, start position of the second entity and a sentence. The sentence is converted to a sequence of word ids by BertTokenizer. Special tokens like [CLS] and [SEP] are added (So a sequence starts with 101 and ends with 102). Reserved tokens are used as entity markers, [unused1] -> \<e1\>, [unused2] -> \</e1\>, [unused2] -> \<e2\>, [unused4] -> \</e2\>. There is a sample.txt in directory data for demo.
 
